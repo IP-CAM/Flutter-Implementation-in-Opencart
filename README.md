@@ -1,10 +1,11 @@
-# opencart
+# Opencart
 
-A new Flutter application.
+A flutter implementation of a mockup I saw on dribbble
+
+## Screenshot
+![Screenshot](https://github.com/anohene1/opencart/blob/main/Screenshot.png)
 
 ## Getting Started
-
-This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
